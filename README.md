@@ -1,4 +1,1 @@
-# 3dviewerп
-а
-а
-а
+# 3dviewer
